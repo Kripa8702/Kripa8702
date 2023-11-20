@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kripa8702&label=Profile%20views&color=0e75b6&style=flat" alt="kripa8702" /> </p>
 
-- 🔭 I’m currently a **3rd Year CE student @ VIER**
+- 🔭 I’m currently a **Last Year CE student @ VIER**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lkebRBd0zbLYDxAwRPi6oTd1oQi9fPwM/view?usp=sharing](https://drive.google.com/file/d/1lkebRBd0zbLYDxAwRPi6oTd1oQi9fPwM/view?usp=sharing)
 
